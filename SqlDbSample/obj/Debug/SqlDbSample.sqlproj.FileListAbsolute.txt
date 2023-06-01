@@ -1,0 +1,6 @@
+C:\Users\nphan\source\repos\CsAssessment\SqlDbSample\bin\Debug\SqlDbSample.dacpac
+C:\Users\nphan\source\repos\CsAssessment\SqlDbSample\obj\Debug\SqlDbSample.sqlproj.AssemblyReference.cache
+C:\Users\nphan\source\repos\CsAssessment\SqlDbSample\obj\Debug\SqlDbSample.dll
+C:\Users\nphan\source\repos\CsAssessment\SqlDbSample\obj\Debug\SqlDbSample.pdb
+C:\Users\nphan\source\repos\CsAssessment\SqlDbSample\bin\Debug\SqlDbSample.dll
+C:\Users\nphan\source\repos\CsAssessment\SqlDbSample\bin\Debug\SqlDbSample.pdb
